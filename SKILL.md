@@ -1,12 +1,10 @@
 ---
 name: candor-culture-assessment
-description: 'Diagnose an organization''s candor deficit and provide a roadmap for
-  building a culture of honest feedback and transparent communication. Based on Jack
-  Welch''s principle: "Lack of candor is the bigg...'
+description: 'Diagnose an organization''s candor deficit and provide a roadmap for building a culture of honest feedback and transparent communication. Based on Jack Welch''s principle: "Lack of candor is the bigg...'
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - candor-culture-assessment
 - transformation
