@@ -4,7 +4,7 @@ description: 'Diagnose an organization''s candor deficit and provide a roadmap f
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3529
+  version: 1.0.3530
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - candor-culture-assessment
